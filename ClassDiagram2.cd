@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceShooter.AVykreslitelnyObjekt">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAgAAAAAAAAIAAAAAAAAAAAEQAAEAAAAAAAA=</HashCode>
+      <FileName>AVykreslitelnyObjekt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Form1">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAADAAAAAAAACAEABCAAAAAAAAAAAAQCAAAQA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Hra" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAECCQEgwBQQAACBAUgIAABAAAQAIAAAAIAAA=</HashCode>
+      <FileName>Hra.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SpaceShooter.Hrac">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEAAAAAAAA=</HashCode>
+      <FileName>Hrac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.InflatableMimozemstan">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InflatableMimozemstan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.MegaMimozemstan">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MegaMimozemstan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Mimozemstan">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAABAAUAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Mimozemstan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Pozadi">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAA=</HashCode>
+      <FileName>Pozadi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Program">
+    <Position X="11.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Strela" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.TlacitkoZavrit">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>TlacitkoZavrit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Properties.Resources">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAACABEAAAAQAAAAAAgAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Properties.Settings">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="HaxrCorp 4089 Cyrillic AltGr" Size="10" />
+</ClassDiagram>
